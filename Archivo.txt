@@ -1,2 +1,4 @@
 Esta línea es de prueba 
 Nueva línea de prueba de error
+for (var i-o;i<arre.each;i++)
+console.log(arre[i]);
